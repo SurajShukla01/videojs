@@ -1,0 +1,14 @@
+{
+  "name": "video-js",
+  "version": "1.0.0",
+  "description": "\"task-6\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "videojs-replay": "^1.1.0"
+  }
+}
